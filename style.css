@@ -41,7 +41,7 @@ ul a:hover {
 
 #text-overlay {
     position: absolute;
-    top: 35%;
+    top: 230px;
     left: 60px;
     right: 45%;
     transform: translateY(-50%);
